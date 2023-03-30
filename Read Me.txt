@@ -1,0 +1,13 @@
+LPS(1:240):compression based on CS
+LPS(241:440):compression based on SPIHT
+LPS(441:600):Transmission based on CS
+LPS(601:800):Transmission based on SPIHT
+LPS(801:840):Reference image
+
+1) Please cite the paper: 
+
+Chen, W., Gu, K., Lin, W., Xia, Z., Le Callet, P. & Cheng, E., “Reference-free quality assessment of sonar images via contour degradation measurement,” IEEE Transactions on Image Processing, vol. 28, no. 11, pp. 5336-5351, 2019.
+
+Chen, W., Gu, K., Lin, W., Yuan, F. & Cheng, E., “Statistical and structural information backed full-reference quality measure of compressed sonar images,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 2, pp. 334-348, 2019. 
+
+2) If any question, please contact me through weiling.chen@fzu.edu.cn
